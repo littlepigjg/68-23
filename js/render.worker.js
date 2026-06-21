@@ -1,4 +1,4 @@
-importScripts('paperEffects.js', 'textEffects.js');
+importScripts('paperEffects.js', 'textEffects.js', 'textLayoutUtils.js');
 
 class RenderWorker {
     constructor() {

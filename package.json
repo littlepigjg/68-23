@@ -1,0 +1,18 @@
+{
+  "name": "handwriting-renderer",
+  "version": "1.0.0",
+  "description": "文本转手写图片生成器",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
